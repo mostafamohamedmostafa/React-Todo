@@ -28,3 +28,8 @@ body {
   margin-top:5%;
 }
 
+.card img{
+  height:256px;
+  width:256px;
+}
+

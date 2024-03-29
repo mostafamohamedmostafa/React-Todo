@@ -47,7 +47,9 @@ export const TodoWrapper = () => {
   return (
     <div className="container text-center todo-wrapper">
       <div className="card">
+
         <img className="img-fluid" src={todopic}></img>
+        <h2>Add,Delete,Update Tasks<h2/>
         <div className="card-body">
           <h1 className="card-title">💬 Todo Form</h1>
           <p className="card-text">
